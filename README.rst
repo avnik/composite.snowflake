@@ -22,4 +22,9 @@ import interface declaration, or activate package from pyramid side.
 Installation
 ------------
 
-Just add composite.snowflake into you buildout.cfg 
+Just add composite.snowflake into you buildout.cfg
+
+License
+-------
+
+Code licensed under MIT/X license.
